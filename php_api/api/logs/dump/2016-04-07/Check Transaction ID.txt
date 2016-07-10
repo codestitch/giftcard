@@ -1,0 +1,6 @@
+[Thu Apr 07 14:14:53 2016]	[client: 10.23.201.105] [file: points.class.php] - Transaction ID: [00000015]	 Branch Code: [1]	 Status: [Success]	 Response : [Valid]
+[Thu Apr 07 14:29:39 2016]	[client: 10.23.201.105] [file: points.class.php] - Transaction ID: [00000014]	 Branch Code: [1]	 Status: [Success]	 Response : [Valid]
+[Thu Apr 07 14:29:40 2016]	[client: 10.23.201.105] [file: points.class.php] - Transaction ID: [00000014]	 Branch Code: [1]	 Status: [Success]	 Response : [Invalid]
+[Thu Apr 07 14:32:44 2016]	[client: 10.23.201.105] [file: points.class.php] - Transaction ID: [00000014]	 Branch Code: [1]	 Status: [Success]	 Response : [Invalid]
+[Thu Apr 07 15:07:33 2016]	[client: 10.23.201.105] [file: points.class.php] - Transaction ID: [00000014]	 Branch Code: [1]	 Status: [Success]	 Response : [Invalid]
+[Thu Apr 07 15:08:05 2016]	[client: 10.23.201.105] [file: points.class.php] - Transaction ID: [00000114]	 Branch Code: [1]	 Status: [Success]	 Response : [Valid]

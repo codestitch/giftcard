@@ -1,0 +1,1 @@
+[Wed Mar 30 15:56:06 2016]	[client: 58.69.142.44] [file: core.class.php] - [Param: jedachas@gmail.com, 100001348347442, ios, DFB7B7A4-5FA6-46F2-AF9A-A5A7A8844986, Jed, , Achas, , ]	 Status: [Success]

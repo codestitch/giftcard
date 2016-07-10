@@ -1,0 +1,7 @@
+[Thu Apr 07 14:33:03 2016]	[client: 10.23.201.105] [file: points.class.php] - [Param: eb99429fbe820f3c, LOCQD11456xCmMDI, APP-7VYD-00081]	 Response : [Success]
+[Thu Apr 07 14:56:47 2016]	[client: 10.23.201.105] [file: points.class.php] - [Param: eb99429fbe820f3c, LOCQD11456xCmMDI, APP-7VYD-00081]	 Response : [Success]
+[Thu Apr 07 15:04:33 2016]	[client: 10.23.201.105] [file: points.class.php] - [Param: eb99429fbe820f3c, LOCQD11456xCmMDI, APP-7VYD-00081]	 Response : [Success]
+[Thu Apr 07 15:08:20 2016]	[client: 10.23.201.105] [file: points.class.php] - [Param: eb99429fbe820f3c, LOCQD11456xCmMDI, APP-7VYD-00081]	 Response : [Success]
+[Thu Apr 07 15:22:55 2016]	[client: 10.23.201.105] [file: points.class.php] - [Param: eb99429fbe820f3c, LOCQD11456xCmMDI, APP-7VYD-00081]	 Response : [Success]
+[Thu Apr 07 15:31:35 2016]	[client: 10.23.201.105] [file: points.class.php] - [Param: eb99429fbe820f3c, LOCQD11456xCmMDI, APPSINC-PH-2015-00019]	 Response : [Failed]
+[Thu Apr 07 15:31:47 2016]	[client: 10.23.201.105] [file: points.class.php] - [Param: eb99429fbe820f3c, LOCQD11456xCmMDI, APP-7VYD-00081]	 Response : [Success]

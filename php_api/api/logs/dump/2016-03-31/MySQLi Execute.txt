@@ -1,0 +1,1 @@
+[Thu Mar 31 10:19:23 2016]	[client: 58.69.142.44] [file: reports.class.php] - Execute failed: (1054) Unknown column 'a.timeStamp' in 'where clause'	 [Procedure: reports_get_dailyRedeem] [Query: CALL reports_get_dailyRedeem(?, ?)]

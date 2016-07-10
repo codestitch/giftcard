@@ -1,0 +1,12 @@
+[Mon May 02 12:32:49 2016]	[client: 58.69.142.44] [file: dashboard.class.php] - Bind Param failed: (0) 	 [Procedure: dashboard_update_location] [Param: ACCTJIM143JEZ697, dhAYWDbRAdc90q0yA7J6cxUN4PNk6pyobz7Mmjjul5hWMSTGzEnOOpv7Xiral6j4, LOCiF114724lxxSD, I Tower Manila - P Noval St., P Noval St near corner Espana Avenue GF Manila, 41 1015 , 19.232323, 122.323223, M001, 5598743, , Tomorrow 	07:00 to 00:00
+Wednesday 	07:00 to 00:00
+Thursday 	07:00 to 00:00
+Friday 	07:00 to 00:00
+Saturday 	07:00 to 00:00
+Sunday 	07:00 to 00:00 , active, active,  ]
+[Mon May 02 12:34:53 2016]	[client: 58.69.142.44] [file: dashboard.class.php] - Bind Param failed: (0) 	 [Procedure: dashboard_update_location] [Param: ACCTJIM143JEZ697, dhAYWDbRAdc90q0yA7J6cxUN4PNk6pyobz7Mmjjul5hWMSTGzEnOOpv7Xiral6j4, LOCiF114724lxxSD, I Tower Manila - P Noval St., P Noval St near corner Espana Avenue GF Manila, 41 1015 , 19.232323, 122.323223, M001, 5598743, , Tomorrow 	07:00 to 00:00
+Wednesday 	07:00 to 00:00
+Thursday 	07:00 to 00:00
+Friday 	07:00 to 00:00
+Saturday 	07:00 to 00:00
+Sunday 	07:00 to 00:00 , active, active,  ]

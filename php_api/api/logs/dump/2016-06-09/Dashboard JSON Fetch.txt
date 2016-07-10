@@ -1,0 +1,5 @@
+[Thu Jun 09 11:51:42 2016]	[client: 58.69.142.44] [file: dashboard.class.php] - Table: [settings]	 Status: [Success]
+[Thu Jun 09 11:51:43 2016]	[client: 58.69.142.44] [file: dashboard.class.php] - Table: [settings]	 Status: [Success]
+[Thu Jun 09 11:59:55 2016]	[client: 58.69.142.44] [file: dashboard.class.php] - Table: [loctable]	 Status: [Success]
+[Thu Jun 09 14:49:33 2016]	[client: 58.69.142.44] [file: dashboard.class.php] - Table: [settings]	 Status: [Success]
+[Thu Jun 09 14:49:33 2016]	[client: 58.69.142.44] [file: dashboard.class.php] - Table: [settings]	 Status: [Success]

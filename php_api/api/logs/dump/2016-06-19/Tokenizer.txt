@@ -1,0 +1,1 @@
+[Sun Jun 19 20:04:10 2016]	[client: 203.87.156.157] [file: core.class.php] - [Device ID: ef6d17547f07ae4a, Platform: android, PUSH ID: eoTjlv-J0j0:APA91bGrh9LJD1FnLQWzGwZUaRFecMR3Fw2IS5LwlOGHg-oxMDXwpbksJBAxFtcelK6plQiFATFm5jnD5YtUGCMaxpQKXNNjLsV7lvbQ5fLqcXhi_W2pfTgwEeGBCKFM0ZMm71k3iW8y]	 Status: [Existing]

@@ -1,0 +1,54 @@
+[
+	{ 
+		"name" : "Anytime", 
+		"img" : "http://58.69.142.44/project/starbucks/card/assets/img/cards/anytime.png" 
+	},
+	{ 
+		"name" : "Baby", 
+		"img" : "http://58.69.142.44/project/starbucks/card/assets/img/cards/baby.png" 
+	},
+	{ 
+		"name" : "Birthday", 
+		"img" : "http://58.69.142.44/project/starbucks/card/assets/img/cards/bday.png" 
+	},
+	{ 
+		"name" : "Congratulations", 
+		"img" : "http://58.69.142.44/project/starbucks/card/assets/img/cards/congratulations.png" 
+	},
+	{ 
+		"name" : "Encouragement", 
+		"img" : "http://58.69.142.44/project/starbucks/card/assets/img/cards/encouragement.png" 
+	},
+	{ 
+		"name" : "Favcoffee", 
+		"img" : "http://58.69.142.44/project/starbucks/card/assets/img/cards/favcoffee.png" 
+	},
+	{ 
+		"name" : "Friendship", 
+		"img" : "http://58.69.142.44/project/starbucks/card/assets/img/cards/friendship.png" 
+	},
+	{ 
+		"name" : "Graduates", 
+		"img" : "http://58.69.142.44/project/starbucks/card/assets/img/cards/graduates.png" 
+	},
+	{ 
+		"name" : "Love", 
+		"img" : "http://58.69.142.44/project/starbucks/card/assets/img/cards/love.png" 
+	},
+	{ 
+		"name" : "Sensei", 
+		"img" : "http://58.69.142.44/project/starbucks/card/assets/img/cards/Sensei.png" 
+	},
+	{ 
+		"name" : "Summer", 
+		"img" : "http://58.69.142.44/project/starbucks/card/assets/img/cards/summer.png" 
+	},
+	{ 
+		"name" : "Thank You", 
+		"img" : "http://58.69.142.44/project/starbucks/card/assets/img/cards/thankyou.png" 
+	},
+	{ 
+		"name" : "Work", 
+		"img" : "http://58.69.142.44/project/starbucks/card/assets/img/cards/work.png" 
+	}
+]

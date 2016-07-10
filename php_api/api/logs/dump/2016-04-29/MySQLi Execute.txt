@@ -1,0 +1,3 @@
+[Fri Apr 29 17:57:32 2016]	[client: 58.69.142.44] [file: dashboard.class.php] - Execute failed: (1110) Column 'categoryID' specified twice	 [Procedure: dashboard_add_subcategory] [Query: CALL dashboard_add_subcategory(?, ?, ?, ?, ?, ?, ?)]
+[Fri Apr 29 17:59:41 2016]	[client: 58.69.142.44] [file: dashboard.class.php] - Execute failed: (1136) Column count doesn't match value count at row 1	 [Procedure: dashboard_add_subcategory] [Query: CALL dashboard_add_subcategory(?, ?, ?, ?, ?, ?, ?)]
+[Fri Apr 29 18:00:21 2016]	[client: 58.69.142.44] [file: dashboard.class.php] - Execute failed: (1054) Unknown column 'icon' in 'field list'	 [Procedure: dashboard_add_subcategory] [Query: CALL dashboard_add_subcategory(?, ?, ?, ?, ?, ?, ?)]

@@ -1,0 +1,6 @@
+[Thu Apr 07 14:14:53 2016]	[client: 10.23.201.105] [file: points.class.php] - Location ID: [LOCQD11456xCmMDI]	 Status: [Success]	 Response : [branchCode: 1]
+[Thu Apr 07 14:29:39 2016]	[client: 10.23.201.105] [file: points.class.php] - Location ID: [LOCQD11456xCmMDI]	 Status: [Success]	 Response : [branchCode: 1]
+[Thu Apr 07 14:29:40 2016]	[client: 10.23.201.105] [file: points.class.php] - Location ID: [LOCQD11456xCmMDI]	 Status: [Success]	 Response : [branchCode: 1]
+[Thu Apr 07 14:32:44 2016]	[client: 10.23.201.105] [file: points.class.php] - Location ID: [LOCQD11456xCmMDI]	 Status: [Success]	 Response : [branchCode: 1]
+[Thu Apr 07 15:07:33 2016]	[client: 10.23.201.105] [file: points.class.php] - Location ID: [LOCQD11456xCmMDI]	 Status: [Success]	 Response : [branchCode: 1]
+[Thu Apr 07 15:08:05 2016]	[client: 10.23.201.105] [file: points.class.php] - Location ID: [LOCQD11456xCmMDI]	 Status: [Success]	 Response : [branchCode: 1]

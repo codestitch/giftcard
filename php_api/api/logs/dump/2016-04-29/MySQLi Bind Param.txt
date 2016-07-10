@@ -1,0 +1,1 @@
+[Fri Apr 29 17:56:54 2016]	[client: 58.69.142.44] [file: dashboard.class.php] - Bind Param failed: (0) 	 [Procedure: dashboard_add_subcategory] [Param: ACCTJIM143JEZ697, SOjXFlyBe8SMhNYlCTvFE5moIeUEnOLdClGg8HWurBzQoi7yiD8CzPhLOBtonxrp, Frappuccino Blended Beverages, CAT7m17243id4whG, http://58.69.142.44/project/starbucks/assets/images/product/cCRx20160429175654FqiM.jpg, , active]

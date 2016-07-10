@@ -1,0 +1,29 @@
+[Tue Mar 29 15:01:30 2016]	[client: 58.69.142.44] [file: reports.class.php] - User Registration
+[Tue Mar 29 15:01:30 2016]	[client: 58.69.142.44] [file: reports.class.php] - User Download
+[Tue Mar 29 15:01:30 2016]	[client: 58.69.142.44] [file: reports.class.php] - User Age
+[Tue Mar 29 15:01:30 2016]	[client: 58.69.142.44] [file: reports.class.php] - User Gender
+[Tue Mar 29 15:20:04 2016]	[client: 58.69.142.44] [file: reports.class.php] - Spent Yearly Sales
+[Tue Mar 29 15:20:04 2016]	[client: 58.69.142.44] [file: reports.class.php] - SPent Daily Sales
+[Tue Mar 29 15:20:04 2016]	[client: 58.69.142.44] [file: reports.class.php] - Spent Average Customer
+[Tue Mar 29 15:20:15 2016]	[client: 58.69.142.44] [file: reports.class.php] - Total Redemption
+[Tue Mar 29 15:21:44 2016]	[client: 58.69.142.44] [file: reports.class.php] - Total Redemption
+[Tue Mar 29 15:22:40 2016]	[client: 58.69.142.44] [file: reports.class.php] - User Registration
+[Tue Mar 29 15:22:40 2016]	[client: 58.69.142.44] [file: reports.class.php] - User Download
+[Tue Mar 29 15:22:40 2016]	[client: 58.69.142.44] [file: reports.class.php] - User Age
+[Tue Mar 29 15:22:40 2016]	[client: 58.69.142.44] [file: reports.class.php] - User Gender
+[Tue Mar 29 15:23:53 2016]	[client: 58.69.142.44] [file: reports.class.php] - Monthly User Birthday
+[Tue Mar 29 15:23:53 2016]	[client: 58.69.142.44] [file: reports.class.php] - Daily User Birthday
+[Tue Mar 29 15:24:19 2016]	[client: 58.69.142.44] [file: reports.class.php] - User Registration
+[Tue Mar 29 15:24:19 2016]	[client: 58.69.142.44] [file: reports.class.php] - User Download
+[Tue Mar 29 15:24:19 2016]	[client: 58.69.142.44] [file: reports.class.php] - User Age
+[Tue Mar 29 15:24:19 2016]	[client: 58.69.142.44] [file: reports.class.php] - User Gender
+[Tue Mar 29 15:43:24 2016]	[client: 58.69.142.44] [file: reports.class.php] - Monthly User Birthday
+[Tue Mar 29 15:43:24 2016]	[client: 58.69.142.44] [file: reports.class.php] - Daily User Birthday
+[Tue Mar 29 15:43:45 2016]	[client: 58.69.142.44] [file: reports.class.php] - Spent Yearly Sales
+[Tue Mar 29 15:43:45 2016]	[client: 58.69.142.44] [file: reports.class.php] - SPent Daily Sales
+[Tue Mar 29 15:43:45 2016]	[client: 58.69.142.44] [file: reports.class.php] - Spent Average Customer
+[Tue Mar 29 15:43:54 2016]	[client: 58.69.142.44] [file: reports.class.php] - Total Redemption
+[Tue Mar 29 15:44:09 2016]	[client: 58.69.142.44] [file: reports.class.php] - User Registration
+[Tue Mar 29 15:44:09 2016]	[client: 58.69.142.44] [file: reports.class.php] - User Download
+[Tue Mar 29 15:44:09 2016]	[client: 58.69.142.44] [file: reports.class.php] - User Age
+[Tue Mar 29 15:44:09 2016]	[client: 58.69.142.44] [file: reports.class.php] - User Gender

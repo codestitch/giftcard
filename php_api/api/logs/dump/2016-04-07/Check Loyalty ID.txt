@@ -1,0 +1,5 @@
+[Thu Apr 07 15:05:05 2016]	[client: 10.23.201.105] [file: points.class.php] - Param: [LOYLN18255v1oMyj]	 Status: [Success]	 Response : [Valid]
+[Thu Apr 07 15:08:30 2016]	[client: 10.23.201.105] [file: points.class.php] - Param: [LOYLN18255v1oMyj]	 Status: [Success]	 Response : [Valid]
+[Thu Apr 07 15:23:20 2016]	[client: 10.23.201.105] [file: points.class.php] - Param: [LOYLN18255v1oMyj]	 Status: [Success]	 Response : [Valid]
+[Thu Apr 07 15:23:47 2016]	[client: 10.23.201.105] [file: points.class.php] - Param: [LOYLN18255v1oMyj]	 Status: [Success]	 Response : [Valid]
+[Thu Apr 07 15:32:23 2016]	[client: 10.23.201.105] [file: points.class.php] - Param: [LOYrs22314PCq8gK]	 Status: [Success]	 Response : [Valid]

@@ -1,0 +1,2 @@
+[Fri Jun 03 22:36:45 2016]	[client: 130.105.224.80] [file: json.class.php] - Table: [producttable]	 Status: [Success]
+[Fri Jun 03 22:37:00 2016]	[client: 130.105.224.80] [file: json.class.php] - Table: [producttable]	 Status: [Success]

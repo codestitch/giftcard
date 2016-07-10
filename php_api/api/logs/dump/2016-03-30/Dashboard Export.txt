@@ -1,0 +1,11 @@
+[Wed Mar 30 14:08:50 2016]	[client: 58.69.142.44] [file: reports.class.php] - Total Customer Spent
+[Wed Mar 30 14:10:19 2016]	[client: 58.69.142.44] [file: reports.class.php] - Customer Transaction History Points
+[Wed Mar 30 14:11:42 2016]	[client: 58.69.142.44] [file: reports.class.php] - Customer Transaction History Sales
+[Wed Mar 30 14:12:12 2016]	[client: 58.69.142.44] [file: reports.class.php] - Customer Transaction Summary Points
+[Wed Mar 30 14:16:24 2016]	[client: 58.69.142.44] [file: reports.class.php] - Branch Transaction Summary Sales
+[Wed Mar 30 14:21:15 2016]	[client: 58.69.142.44] [file: reports.class.php] - Branch Transaction History Points
+[Wed Mar 30 14:21:50 2016]	[client: 58.69.142.44] [file: reports.class.php] - Branch Transaction History Sales
+[Wed Mar 30 14:22:17 2016]	[client: 58.69.142.44] [file: reports.class.php] - Branch Transaction Summary Points
+[Wed Mar 30 14:23:46 2016]	[client: 58.69.142.44] [file: reports.class.php] - Branch Transaction Summary Sales
+[Wed Mar 30 15:12:12 2016]	[client: 58.69.142.44] [file: reports.class.php] - Branch Transaction Summary Points
+[Wed Mar 30 15:12:37 2016]	[client: 58.69.142.44] [file: reports.class.php] - Branch Transaction Summary Sales

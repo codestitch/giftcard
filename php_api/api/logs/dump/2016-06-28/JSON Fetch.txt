@@ -1,0 +1,4 @@
+[Tue Jun 28 12:20:40 2016]	[client: 58.69.142.44] [file: json.class.php] - Table: [loctable]	 Status: [Success]
+[Tue Jun 28 12:20:42 2016]	[client: 58.69.142.44] [file: json.class.php] - Table: [producttable]	 Status: [Success]
+[Tue Jun 28 12:20:42 2016]	[client: 58.69.142.44] [file: json.class.php] - Table: [faqtable]	 Status: [Success]
+[Tue Jun 28 20:45:42 2016]	[client: 112.209.72.38] [file: json.class.php] - Table: [producttable]	 Status: [Success]

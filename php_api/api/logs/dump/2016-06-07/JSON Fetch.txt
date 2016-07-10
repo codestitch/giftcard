@@ -1,0 +1,4 @@
+[Tue Jun 07 11:53:35 2016]	[client: 58.69.142.44] [file: json.class.php] - Table: [carddesigntable]	 Status: [Success]
+[Tue Jun 07 14:42:56 2016]	[client: 58.69.142.44] [file: json.class.php] - Table: [carddesigntable]	 Status: [Success]
+[Tue Jun 07 14:43:20 2016]	[client: 58.69.142.44] [file: json.class.php] - Table: [carddesigntable]	 Status: [Success]
+[Tue Jun 07 14:43:34 2016]	[client: 58.69.142.44] [file: json.class.php] - Table: [carddesigntable]	 Status: [Success]

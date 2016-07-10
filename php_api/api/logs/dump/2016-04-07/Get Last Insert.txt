@@ -1,0 +1,3 @@
+[Thu Apr 07 14:14:53 2016]	[client: 10.23.201.105] [file: points.class.php] - Device ID: [eb99429fbe820f3c]	 Status: [Success]	 Response : [EFRQey14253VPdqm]
+[Thu Apr 07 14:29:39 2016]	[client: 10.23.201.105] [file: points.class.php] - Device ID: [eb99429fbe820f3c]	 Status: [Success]	 Response : [EFRQBk14739Fe1g4]
+[Thu Apr 07 15:08:05 2016]	[client: 10.23.201.105] [file: points.class.php] - Device ID: [eb99429fbe820f3c]	 Status: [Success]	 Response : [EFRQgD1595d1igjz]

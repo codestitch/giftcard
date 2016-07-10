@@ -1,0 +1,5 @@
+[Thu Apr 07 15:05:05 2016]	[client: 10.23.201.105] [file: points.class.php] - [Param: eb99429fbe820f3c, LOCQD11456xCmMDI, LOYLN18255v1oMyj, MEMTq158144Ta3DP, 5, APP, 1.0]	 Response : [Success]
+[Thu Apr 07 15:08:30 2016]	[client: 10.23.201.105] [file: points.class.php] - [Param: eb99429fbe820f3c, LOCQD11456xCmMDI, LOYLN18255v1oMyj, MEMTq158144Ta3DP, 5, APP, 1.0]	 Response : [Success]
+[Thu Apr 07 15:23:20 2016]	[client: 10.23.201.105] [file: points.class.php] - [Param: eb99429fbe820f3c, LOCQD11456xCmMDI, LOYLN18255v1oMyj, MEMTq158144Ta3DP, 5, APP, 1.0]	 Response : [Success]
+[Thu Apr 07 15:23:47 2016]	[client: 10.23.201.105] [file: points.class.php] - [Param: eb99429fbe820f3c, LOCQD11456xCmMDI, LOYLN18255v1oMyj, MEMTq158144Ta3DP, 5, APP, 1.0]	 Response : [Success]
+[Thu Apr 07 15:32:23 2016]	[client: 10.23.201.105] [file: points.class.php] - [Param: eb99429fbe820f3c, LOCQD11456xCmMDI, LOYrs22314PCq8gK, MEMTq158144Ta3DP, 10, APP, 1.0]	 Response : [Success]

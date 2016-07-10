@@ -1,0 +1,7 @@
+[Fri Jun 17 15:07:51 2016]	[client: 121.54.54.186] [file: json.class.php] - Table: [carddesigntable]	 Status: [Success]
+[Fri Jun 17 15:08:02 2016]	[client: 121.54.54.186] [file: json.class.php] - Table: [carddesigntable]	 Status: [Success]
+[Fri Jun 17 15:08:13 2016]	[client: 121.54.54.186] [file: json.class.php] - Table: [carddesigntable]	 Status: [Success]
+[Fri Jun 17 17:44:14 2016]	[client: 120.28.99.62] [file: json.class.php] - Table: [producttable]	 Status: [Success]
+[Fri Jun 17 18:08:34 2016]	[client: 120.28.99.62] [file: json.class.php] - Table: [carddesigntable]	 Status: [Success]
+[Fri Jun 17 18:25:15 2016]	[client: 120.28.99.62] [file: json.class.php] - Table: [carddesigntable]	 Status: [Success]
+[Fri Jun 17 18:26:57 2016]	[client: 120.28.99.62] [file: json.class.php] - Table: [carddesigntable]	 Status: [Success]
